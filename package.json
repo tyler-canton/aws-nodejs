@@ -1,8 +1,8 @@
 {
-  "name": "Elastic-Beanstalk-Sample-App",
+  "name": "ebs-variable-assign-app",
   "version": "0.0.1",
   "private": true,
-  "dependencies": {},
+  "dependencies": {"async": "2.5.x"},
   "scripts": {
     "start": "node app.js"
   }
